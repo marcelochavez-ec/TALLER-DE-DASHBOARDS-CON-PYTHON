@@ -14,5 +14,6 @@ Ingeniero Estadístico Informático, experto en Gestión de Datos, y con experie
 * Automatización de Procesos Estadísticos con Python, 
 
 [Ing. Marcelo Chávez](https://www.linkedin.com/in/marcelochavezec/){:target="_blank"}
+<a href="[http://example.com/](https://www.linkedin.com/in/marcelochavezec)" target="_blank">Ing. Marcelo Chávez</a>
 
 **© 2023**
