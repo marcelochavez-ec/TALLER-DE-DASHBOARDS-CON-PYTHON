@@ -7,6 +7,7 @@ El presente repositorio muestra una introducción al desarrollo de Dashboards co
 
 | Software       | Versión | Gestor |
 | :---           | :----:  | ---:   |
+| Windows        | 11 Home | N/A    |
 | Python         | 3.10    | pip    |
 | Dash Community | 2.2     | pip    |
 | PostgreSQL     | 14.0    | N/A    |
