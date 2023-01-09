@@ -19,14 +19,6 @@ Ingeniero Estadístico Informático, experto en Gestión de Datos, y con experie
 * Business Intelligence (Data Warehousing, Cubos de información, y Minería de Datos)
 * Automatización de Procesos Estadísticos con Python
 
-<style>
-mark{
-    color:red;
-}
-</style>
-
-<mark>what is DataBase</mark>
-
 [Ing. Marcelo Chávez](https://www.linkedin.com/in/marcelochavezec/)
 
 **© 2023**
