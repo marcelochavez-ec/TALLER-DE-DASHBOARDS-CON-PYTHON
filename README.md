@@ -9,6 +9,7 @@ El presente repositorio muestra una introducción al desarrollo de Dashboards co
 | :---           | :----:  | ---:   |
 | Python         | 3.10    | pip    |
 | Dash Community | 2.2     | pip    |
+| PostgreSQL     | 14.0    | N/A    |
 
 ### Developer: Ing. Marcelo Chávez <br>
 Ingeniero Estadístico Informático, experto en Gestión de Datos, y con experiencia en el liderazgo de áreas técnicas o proyectos orientados a:
