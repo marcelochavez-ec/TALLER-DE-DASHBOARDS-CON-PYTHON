@@ -3,7 +3,7 @@
 
 # TALLER DE DASHBOARDS CON PYTHON <br>
 El presente repositorio muestra una introducción al desarrollo de Dashboards con **Python**
-## Tecnología utilizada: <br>
+### Tecnología utilizada: <br>
 
 | Software       | Versión | Gestor |
 | :---           | :----:  | ---:   |
